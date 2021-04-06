@@ -1,4 +1,4 @@
-# AmazonS3WebsiteEndpoints
+# Amazon S3 Website Endpoints
 
 
 ## Website endpoint examples
