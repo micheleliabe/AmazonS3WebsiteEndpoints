@@ -1,0 +1,3 @@
+AmazonS3WebsiteEndpoints
+
+Endpoints lists
